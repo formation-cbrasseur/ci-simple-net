@@ -6,7 +6,7 @@ namespace TestProject1
         [TestMethod]
         public void Mon_Super_Test()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
     }
 }
